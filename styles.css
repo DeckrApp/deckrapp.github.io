@@ -1,0 +1,12 @@
+body {
+	height: 100vh;
+	background: #00b8a9ff;
+	background: radial-gradient(#00b8a9ff, #ffffff);
+}
+
+div.centered {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
